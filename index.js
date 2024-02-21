@@ -57,10 +57,10 @@ process.on('SIGTERM', () => {
 // }
 // );
 
-university.save().then((result) => {
-    console.log(result);
-}
-).catch((err) => {
-    console.log(err);
-}
-);
+// university.save().then((result) => {
+//     console.log(result);
+// }
+// ).catch((err) => {
+//     console.log(err);
+// }
+// );
