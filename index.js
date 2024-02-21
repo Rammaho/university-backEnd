@@ -41,12 +41,12 @@ process.on('SIGTERM', () => {
 });
 
 
-const university = new University({
-    name: "Kalinga",
-    location: "BBU",
-    fees: 2000,
-    numberOfStudents: 100
-});
+// const university = new University({
+//     name: "Kalinga",
+//     location: "BBU",
+//     fees: 2000,
+//     numberOfStudents: 100
+// });
 
 // app.get('/university', (req, res) => {
 //     university.save().then((result) => {
