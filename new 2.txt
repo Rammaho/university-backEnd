@@ -1,0 +1,41 @@
+MedzGo:
+	Frontend: React
+	Backend/API: NodeJS
+	databases: mongodb, mysql, sql server
+	Integration: AWS, GitLab, Zoho Inventory Management, Twillio SMS/Email
+
+AI brain tumor detection:
+	Designed, Developed, and trained AI model for X-ray images scanning and tumor detection and segmentation.
+	Developed Web UI for users to upload images and see results.
+	Deployed the model on AWS sagemaker.
+
+
+azure
+
+gcp
+
+
+MERN
+
+Mongo Expree React NodeJS
+
+git push
+git pull
+
+main
+
+temp
+
+GIT github gitlab bitbucket
+
+deploy: db: Atlas MongoDB
+		React: vercel
+		backend: render
+		
+		
+MERN
+
+GIT
+
+Deploy
+CI/CD
